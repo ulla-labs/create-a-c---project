@@ -1,0 +1,4 @@
+build/
+*.o
+bubble_sort
+node_modules/
