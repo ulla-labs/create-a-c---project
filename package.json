@@ -1,0 +1,11 @@
+{
+  "name": "cpp-bubble-sort",
+  "version": "1.0.0",
+  "description": "A basic C++ project demonstrating the Bubble Sort algorithm.",
+  "scripts": {
+    "build": "mkdir -p build && g++ src/main.cpp src/bubble_sort.cpp -Iinclude -o build/bubble_sort",
+    "run": "./build/bubble_sort"
+  },
+  "author": "Software Architect",
+  "license": "MIT"
+}
